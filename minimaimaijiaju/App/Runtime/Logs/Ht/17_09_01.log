@@ -1,0 +1,637 @@
+[ 2017-09-01T17:57:42+08:00 ] ::1 /minimaimaijiaju/index.php/Ht/Login/index.html
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minimaimaijiaju\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000057s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000853s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000910s ]
+SQL: SHOW COLUMNS FROM `lr_program` [ RunTime:0.0036s ]
+SQL: SELECT * FROM `lr_program` LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000062s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000119s ]
+NOTIC: [8] Undefined variable: key F:\phpStudy\WWW\minimaimaijiaju\App\Runtime\Cache\Ht\2d4ce69e9c2d15d777794fcdbaefd3a2.php 第 24 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.024849s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.024914s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.013989s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.014041s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001607s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001657s ]
+
+[ 2017-09-01T17:57:50+08:00 ] ::1 /minimaimaijiaju/index.php/Ht/Login/index.html?key=
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minimaimaijiaju\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000054s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001072s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001184s ]
+SQL: SHOW COLUMNS FROM `lr_adminuser` [ RunTime:0.0034s ]
+SQL: SELECT * FROM `lr_adminuser` WHERE ( name='admin' AND del<1 ) LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `lr_program` [ RunTime:0.0039s ]
+SQL: SELECT * FROM `lr_program` LIMIT 1   [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000046s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000096s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031468s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031530s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001953s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002005s ]
+
+[ 2017-09-01T17:59:19+08:00 ] ::1 /minimaimaijiaju/index.php/Ht/Login/index.html?key=
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minimaimaijiaju\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000055s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000993s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001051s ]
+SQL: SHOW COLUMNS FROM `lr_adminuser` [ RunTime:0.0043s ]
+SQL: SELECT * FROM `lr_adminuser` WHERE ( name='ceshi' AND del<1 ) LIMIT 1   [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `lr_program` [ RunTime:0.0038s ]
+SQL: SELECT * FROM `lr_program` LIMIT 1   [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000048s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000098s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007910s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007984s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000567s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000648s ]
+
+[ 2017-09-01T18:00:04+08:00 ] ::1 /minimaimaijiaju/index.php/Ht/Login/index.html?key=
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minimaimaijiaju\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000057s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000819s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000876s ]
+SQL: SHOW COLUMNS FROM `lr_adminuser` [ RunTime:0.0056s ]
+SQL: SELECT * FROM `lr_adminuser` WHERE ( name='ceshi' AND del<1 ) LIMIT 1   [ RunTime:0.0015s ]
+SQL: SHOW COLUMNS FROM `lr_program` [ RunTime:0.0054s ]
+SQL: SELECT * FROM `lr_program` LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000050s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000104s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.022443s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022504s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000602s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000644s ]
+
+[ 2017-09-01T18:00:14+08:00 ] ::1 /minimaimaijiaju/index.php/Ht/Login/index.html?key=
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minimaimaijiaju\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000058s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001146s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001237s ]
+SQL: SHOW COLUMNS FROM `lr_adminuser` [ RunTime:0.0042s ]
+SQL: SELECT * FROM `lr_adminuser` WHERE ( name='ceshi1' AND del<1 ) LIMIT 1   [ RunTime:0.0008s ]
+SQL: SHOW COLUMNS FROM `lr_program` [ RunTime:0.0053s ]
+SQL: SELECT * FROM `lr_program` LIMIT 1   [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000051s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000099s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.050422s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.050487s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000484s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000519s ]
+
+[ 2017-09-01T18:00:48+08:00 ] ::1 /minimaimaijiaju/index.php/Ht/Login/index.html?key=
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minimaimaijiaju\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000070s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000810s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000868s ]
+SQL: SHOW COLUMNS FROM `lr_adminuser` [ RunTime:0.0049s ]
+SQL: SELECT * FROM `lr_adminuser` WHERE ( name='ceshi' AND del<1 ) LIMIT 1   [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `lr_program` [ RunTime:0.0036s ]
+SQL: SELECT * FROM `lr_program` LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000049s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000097s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007729s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007783s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000622s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000664s ]
+
+[ 2017-09-01T18:01:05+08:00 ] ::1 /minimaimaijiaju/index.php/Ht/Login/index.html?key=
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minimaimaijiaju\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000064s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000901s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000960s ]
+SQL: SHOW COLUMNS FROM `lr_adminuser` [ RunTime:0.0039s ]
+SQL: SELECT * FROM `lr_adminuser` WHERE ( name='ceshi' AND del<1 ) LIMIT 1   [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `lr_program` [ RunTime:0.0043s ]
+SQL: SELECT * FROM `lr_program` LIMIT 1   [ RunTime:0.0004s ]
+NOTIC: [8] Undefined index: shop_id F:\phpStudy\WWW\minimaimaijiaju\App\Ht\Controller\LoginController.class.php 第 21 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000979s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001022s ]
+
+[ 2017-09-01T18:01:07+08:00 ] ::1 /minimaimaijiaju/index.php/Ht/Index/index.html
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minimaimaijiaju\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000058s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000814s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000874s ]
+SQL: SHOW COLUMNS FROM `lr_web` [ RunTime:0.0043s ]
+SQL: SELECT `concent` FROM `lr_web` WHERE ( id=5 ) LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000099s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000156s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.045267s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.045356s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000825s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000876s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000995s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001043s ]
+
+[ 2017-09-01T18:01:07+08:00 ] ::1 /minimaimaijiaju/index.php/Ht/Page/adminindex.html
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minimaimaijiaju\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000064s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000992s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001068s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000046s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000099s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008695s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008762s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000528s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000565s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000754s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000793s ]
+
+[ 2017-09-01T18:01:12+08:00 ] ::1 /minimaimaijiaju/index.php/Ht/Category/index.html
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minimaimaijiaju\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000054s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000799s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000854s ]
+SQL: SHOW COLUMNS FROM `lr_category` [ RunTime:0.0037s ]
+SQL: SELECT `id`,`tid`,`name`,`bz_2`,`bz_4` FROM `lr_category` WHERE ( tid=0 AND bz_4<2 ) ORDER BY sort desc,id asc  [ RunTime:0.0004s ]
+SQL: SELECT `id`,`tid`,`name`,`bz_2`,`sort` FROM `lr_category` WHERE ( tid=1 ) ORDER BY sort desc,id asc  [ RunTime:0.0003s ]
+SQL: SELECT `id`,`tid`,`name`,`bz_2`,`sort` FROM `lr_category` WHERE ( tid=2 ) ORDER BY sort desc,id asc  [ RunTime:0.0003s ]
+SQL: SELECT `id`,`tid`,`name`,`bz_2`,`sort` FROM `lr_category` WHERE ( tid=3 ) ORDER BY sort desc,id asc  [ RunTime:0.0003s ]
+SQL: SELECT `id`,`tid`,`name`,`bz_2`,`sort` FROM `lr_category` WHERE ( tid=4 ) ORDER BY sort desc,id asc  [ RunTime:0.0003s ]
+SQL: SELECT `id`,`tid`,`name`,`bz_2`,`sort` FROM `lr_category` WHERE ( tid=20 ) ORDER BY sort desc,id asc  [ RunTime:0.0003s ]
+SQL: SELECT `id`,`tid`,`name`,`bz_2`,`sort` FROM `lr_category` WHERE ( tid=21 ) ORDER BY sort desc,id asc  [ RunTime:0.0003s ]
+SQL: SELECT `id`,`tid`,`name`,`bz_2`,`sort` FROM `lr_category` WHERE ( tid=33 ) ORDER BY sort desc,id asc  [ RunTime:0.0003s ]
+SQL: SELECT `id`,`tid`,`name`,`bz_2`,`sort` FROM `lr_category` WHERE ( tid=35 ) ORDER BY sort desc,id asc  [ RunTime:0.0002s ]
+SQL: SELECT `id`,`tid`,`name`,`bz_2`,`sort` FROM `lr_category` WHERE ( tid=39 ) ORDER BY sort desc,id asc  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000064s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000113s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013415s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013776s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000590s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000626s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.008225s ]
+INFO: [ app_end ] --END-- [ RunTime:0.008287s ]
+
+[ 2017-09-01T18:02:17+08:00 ] ::1 /minimaimaijiaju/index.php/Ht/More/indeximg.html
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minimaimaijiaju\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000055s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001068s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001127s ]
+SQL: SHOW COLUMNS FROM `lr_indeximg` [ RunTime:0.0037s ]
+SQL: SELECT * FROM `lr_indeximg` WHERE ( 1=1 )  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000055s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000103s ]
+NOTIC: [8] Undefined variable: page_index F:\phpStudy\WWW\minimaimaijiaju\App\Runtime\Cache\Ht\03a19c76e15009757023fb9a3bd0268e.php 第 34 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008524s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008581s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000532s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000570s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000756s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000792s ]
+
+[ 2017-09-01T18:06:02+08:00 ] ::1 /minimaimaijiaju/index.php/Ht/More/addimg.html?id=1
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minimaimaijiaju\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000056s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001103s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001165s ]
+SQL: SHOW COLUMNS FROM `lr_indeximg` [ RunTime:0.0042s ]
+SQL: SELECT * FROM `lr_indeximg` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `lr_category` [ RunTime:0.0047s ]
+SQL: SELECT `id`,`name` FROM `lr_category` WHERE ( tid=1 )  [ RunTime:0.0019s ]
+SQL: SELECT `id`,`name` FROM `lr_category` WHERE ( tid=2 )  [ RunTime:0.0006s ]
+SQL: SELECT `id`,`name` FROM `lr_category` WHERE ( tid=3 )  [ RunTime:0.0004s ]
+SQL: SELECT `id`,`name` FROM `lr_category` WHERE ( tid=4 )  [ RunTime:0.0003s ]
+SQL: SELECT `id`,`name` FROM `lr_category` WHERE ( tid=35 )  [ RunTime:0.0004s ]
+SQL: SELECT `id`,`name` FROM `lr_category` WHERE ( tid=39 )  [ RunTime:0.0003s ]
+SQL: SELECT `id`,`name` FROM `lr_category` WHERE ( tid=20 )  [ RunTime:0.0004s ]
+SQL: SELECT `id`,`name` FROM `lr_category` WHERE ( tid=21 )  [ RunTime:0.0003s ]
+SQL: SELECT `id`,`name` FROM `lr_category` WHERE ( tid=33 )  [ RunTime:0.0008s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000059s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000109s ]
+NOTIC: [8] Undefined variable: more F:\phpStudy\WWW\minimaimaijiaju\App\Runtime\Cache\Ht\e81849e4ce3be3ecab274b55a0a2e144.php 第 19 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.042078s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.042142s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000544s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000580s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001452s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001502s ]
+
+[ 2017-09-01T18:09:09+08:00 ] ::1 /minimaimaijiaju/index.php/Ht/More/indeximg.html
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minimaimaijiaju\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000055s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000725s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000776s ]
+SQL: SHOW COLUMNS FROM `lr_indeximg` [ RunTime:0.0034s ]
+SQL: SELECT * FROM `lr_indeximg` WHERE ( 1=1 )  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000060s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000113s ]
+NOTIC: [8] Undefined variable: page_index F:\phpStudy\WWW\minimaimaijiaju\App\Runtime\Cache\Ht\03a19c76e15009757023fb9a3bd0268e.php 第 34 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009105s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009157s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000474s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000512s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000702s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000739s ]
+
+[ 2017-09-01T18:09:12+08:00 ] ::1 /minimaimaijiaju/index.php/Ht/More/addimg.html?id=4
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minimaimaijiaju\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000053s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000836s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000907s ]
+SQL: SHOW COLUMNS FROM `lr_indeximg` [ RunTime:0.0035s ]
+SQL: SELECT * FROM `lr_indeximg` WHERE ( id=4 ) LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `lr_category` [ RunTime:0.0037s ]
+SQL: SELECT `id`,`name` FROM `lr_category` WHERE ( tid=1 )  [ RunTime:0.0004s ]
+SQL: SELECT `id`,`name` FROM `lr_category` WHERE ( tid=2 )  [ RunTime:0.0003s ]
+SQL: SELECT `id`,`name` FROM `lr_category` WHERE ( tid=3 )  [ RunTime:0.0004s ]
+SQL: SELECT `id`,`name` FROM `lr_category` WHERE ( tid=4 )  [ RunTime:0.0005s ]
+SQL: SELECT `id`,`name` FROM `lr_category` WHERE ( tid=35 )  [ RunTime:0.0004s ]
+SQL: SELECT `id`,`name` FROM `lr_category` WHERE ( tid=39 )  [ RunTime:0.0003s ]
+SQL: SELECT `id`,`name` FROM `lr_category` WHERE ( tid=20 )  [ RunTime:0.0003s ]
+SQL: SELECT `id`,`name` FROM `lr_category` WHERE ( tid=21 )  [ RunTime:0.0003s ]
+SQL: SELECT `id`,`name` FROM `lr_category` WHERE ( tid=33 )  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000057s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000109s ]
+NOTIC: [8] Undefined variable: more F:\phpStudy\WWW\minimaimaijiaju\App\Runtime\Cache\Ht\e81849e4ce3be3ecab274b55a0a2e144.php 第 19 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009713s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009774s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000541s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000579s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000758s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000798s ]
+
+[ 2017-09-01T18:09:51+08:00 ] ::1 /minimaimaijiaju/index.php/Ht/More/saveimg.html
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minimaimaijiaju\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000056s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000759s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000816s ]
+NOTIC: [8] Use of undefined constant Ymd - assumed 'Ymd' F:\phpStudy\WWW\minimaimaijiaju\App\Ht\Controller\MoreController.class.php 第 221 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given F:\phpStudy\WWW\minimaimaijiaju\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+SQL: SHOW COLUMNS FROM `lr_category` [ RunTime:0.0075s ]
+SQL: SELECT `name` FROM `lr_category` WHERE ( id=7 ) LIMIT 1   [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `lr_indeximg` [ RunTime:0.0056s ]
+SQL: UPDATE `lr_indeximg` SET `photo`='UploadFiles/category/20170901/1504260591830343.png',`cid`='7',`name`='卫浴家具' WHERE ( id=4 ) [ RunTime:0.0020s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000082s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000161s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012423s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012516s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000886s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000948s ]
+
+[ 2017-09-01T18:09:52+08:00 ] ::1 /minimaimaijiaju/index.php/Ht/More/indeximg
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minimaimaijiaju\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000062s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000899s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000969s ]
+SQL: SHOW COLUMNS FROM `lr_indeximg` [ RunTime:0.0054s ]
+SQL: SELECT * FROM `lr_indeximg` WHERE ( 1=1 )  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000062s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000121s ]
+NOTIC: [8] Undefined variable: page_index F:\phpStudy\WWW\minimaimaijiaju\App\Runtime\Cache\Ht\03a19c76e15009757023fb9a3bd0268e.php 第 34 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013364s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013445s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000942s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000995s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000763s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000805s ]
+
+[ 2017-09-01T18:09:55+08:00 ] ::1 /minimaimaijiaju/index.php/Ht/More/addimg.html?id=5
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minimaimaijiaju\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000057s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000797s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000850s ]
+SQL: SHOW COLUMNS FROM `lr_indeximg` [ RunTime:0.0037s ]
+SQL: SELECT * FROM `lr_indeximg` WHERE ( id=5 ) LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `lr_category` [ RunTime:0.0035s ]
+SQL: SELECT `id`,`name` FROM `lr_category` WHERE ( tid=1 )  [ RunTime:0.0004s ]
+SQL: SELECT `id`,`name` FROM `lr_category` WHERE ( tid=2 )  [ RunTime:0.0003s ]
+SQL: SELECT `id`,`name` FROM `lr_category` WHERE ( tid=3 )  [ RunTime:0.0003s ]
+SQL: SELECT `id`,`name` FROM `lr_category` WHERE ( tid=4 )  [ RunTime:0.0003s ]
+SQL: SELECT `id`,`name` FROM `lr_category` WHERE ( tid=35 )  [ RunTime:0.0003s ]
+SQL: SELECT `id`,`name` FROM `lr_category` WHERE ( tid=39 )  [ RunTime:0.0003s ]
+SQL: SELECT `id`,`name` FROM `lr_category` WHERE ( tid=20 )  [ RunTime:0.0003s ]
+SQL: SELECT `id`,`name` FROM `lr_category` WHERE ( tid=21 )  [ RunTime:0.0002s ]
+SQL: SELECT `id`,`name` FROM `lr_category` WHERE ( tid=33 )  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000056s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000103s ]
+NOTIC: [8] Undefined variable: more F:\phpStudy\WWW\minimaimaijiaju\App\Runtime\Cache\Ht\e81849e4ce3be3ecab274b55a0a2e144.php 第 19 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009179s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009229s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000570s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000605s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000759s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000796s ]
+
+[ 2017-09-01T18:10:04+08:00 ] ::1 /minimaimaijiaju/index.php/Ht/More/saveimg.html
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minimaimaijiaju\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000055s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000853s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000905s ]
+NOTIC: [8] Use of undefined constant Ymd - assumed 'Ymd' F:\phpStudy\WWW\minimaimaijiaju\App\Ht\Controller\MoreController.class.php 第 221 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given F:\phpStudy\WWW\minimaimaijiaju\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+SQL: SHOW COLUMNS FROM `lr_category` [ RunTime:0.0051s ]
+SQL: SELECT `name` FROM `lr_category` WHERE ( id=9 ) LIMIT 1   [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `lr_indeximg` [ RunTime:0.0055s ]
+SQL: UPDATE `lr_indeximg` SET `photo`='UploadFiles/category/20170901/1504260604226916.png',`cid`='9',`name`='书房家具' WHERE ( id=5 ) [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000053s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000109s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009704s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009765s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000620s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000659s ]
+
+[ 2017-09-01T18:10:05+08:00 ] ::1 /minimaimaijiaju/index.php/Ht/More/indeximg
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minimaimaijiaju\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000112s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000810s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000899s ]
+SQL: SHOW COLUMNS FROM `lr_indeximg` [ RunTime:0.0051s ]
+SQL: SELECT * FROM `lr_indeximg` WHERE ( 1=1 )  [ RunTime:0.0007s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000060s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000116s ]
+NOTIC: [8] Undefined variable: page_index F:\phpStudy\WWW\minimaimaijiaju\App\Runtime\Cache\Ht\03a19c76e15009757023fb9a3bd0268e.php 第 34 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021491s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021578s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003413s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003499s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000944s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000994s ]
+
+[ 2017-09-01T18:10:07+08:00 ] ::1 /minimaimaijiaju/index.php/Ht/More/addimg.html?id=6
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minimaimaijiaju\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000054s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001280s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001345s ]
+SQL: SHOW COLUMNS FROM `lr_indeximg` [ RunTime:0.0033s ]
+SQL: SELECT * FROM `lr_indeximg` WHERE ( id=6 ) LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `lr_category` [ RunTime:0.0033s ]
+SQL: SELECT `id`,`name` FROM `lr_category` WHERE ( tid=1 )  [ RunTime:0.0004s ]
+SQL: SELECT `id`,`name` FROM `lr_category` WHERE ( tid=2 )  [ RunTime:0.0008s ]
+SQL: SELECT `id`,`name` FROM `lr_category` WHERE ( tid=3 )  [ RunTime:0.0005s ]
+SQL: SELECT `id`,`name` FROM `lr_category` WHERE ( tid=4 )  [ RunTime:0.0003s ]
+SQL: SELECT `id`,`name` FROM `lr_category` WHERE ( tid=35 )  [ RunTime:0.0003s ]
+SQL: SELECT `id`,`name` FROM `lr_category` WHERE ( tid=39 )  [ RunTime:0.0003s ]
+SQL: SELECT `id`,`name` FROM `lr_category` WHERE ( tid=20 )  [ RunTime:0.0003s ]
+SQL: SELECT `id`,`name` FROM `lr_category` WHERE ( tid=21 )  [ RunTime:0.0004s ]
+SQL: SELECT `id`,`name` FROM `lr_category` WHERE ( tid=33 )  [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000057s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000105s ]
+NOTIC: [8] Undefined variable: more F:\phpStudy\WWW\minimaimaijiaju\App\Runtime\Cache\Ht\e81849e4ce3be3ecab274b55a0a2e144.php 第 19 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009138s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009198s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000560s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000598s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000768s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000804s ]
+
+[ 2017-09-01T18:10:15+08:00 ] ::1 /minimaimaijiaju/index.php/Ht/More/saveimg.html
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minimaimaijiaju\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000059s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000864s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000932s ]
+NOTIC: [8] Use of undefined constant Ymd - assumed 'Ymd' F:\phpStudy\WWW\minimaimaijiaju\App\Ht\Controller\MoreController.class.php 第 221 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given F:\phpStudy\WWW\minimaimaijiaju\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+SQL: SHOW COLUMNS FROM `lr_category` [ RunTime:0.0043s ]
+SQL: SELECT `name` FROM `lr_category` WHERE ( id=42 ) LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `lr_indeximg` [ RunTime:0.0037s ]
+SQL: UPDATE `lr_indeximg` SET `photo`='UploadFiles/category/20170901/1504260615299966.png',`cid`='42',`name`='椅类' WHERE ( id=6 ) [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000075s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001918s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.026204s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026265s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000570s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000611s ]
+
+[ 2017-09-01T18:10:16+08:00 ] ::1 /minimaimaijiaju/index.php/Ht/More/indeximg
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minimaimaijiaju\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000056s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000776s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000833s ]
+SQL: SHOW COLUMNS FROM `lr_indeximg` [ RunTime:0.0045s ]
+SQL: SELECT * FROM `lr_indeximg` WHERE ( 1=1 )  [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000122s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000277s ]
+NOTIC: [8] Undefined variable: page_index F:\phpStudy\WWW\minimaimaijiaju\App\Runtime\Cache\Ht\03a19c76e15009757023fb9a3bd0268e.php 第 34 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015046s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015095s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000524s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000563s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000758s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000797s ]
+
+[ 2017-09-01T18:10:18+08:00 ] ::1 /minimaimaijiaju/index.php/Ht/More/addimg.html?id=7
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minimaimaijiaju\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000055s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000843s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000900s ]
+SQL: SHOW COLUMNS FROM `lr_indeximg` [ RunTime:0.0035s ]
+SQL: SELECT * FROM `lr_indeximg` WHERE ( id=7 ) LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `lr_category` [ RunTime:0.0044s ]
+SQL: SELECT `id`,`name` FROM `lr_category` WHERE ( tid=1 )  [ RunTime:0.0005s ]
+SQL: SELECT `id`,`name` FROM `lr_category` WHERE ( tid=2 )  [ RunTime:0.0004s ]
+SQL: SELECT `id`,`name` FROM `lr_category` WHERE ( tid=3 )  [ RunTime:0.0003s ]
+SQL: SELECT `id`,`name` FROM `lr_category` WHERE ( tid=4 )  [ RunTime:0.0003s ]
+SQL: SELECT `id`,`name` FROM `lr_category` WHERE ( tid=35 )  [ RunTime:0.0003s ]
+SQL: SELECT `id`,`name` FROM `lr_category` WHERE ( tid=39 )  [ RunTime:0.0003s ]
+SQL: SELECT `id`,`name` FROM `lr_category` WHERE ( tid=20 )  [ RunTime:0.0003s ]
+SQL: SELECT `id`,`name` FROM `lr_category` WHERE ( tid=21 )  [ RunTime:0.0003s ]
+SQL: SELECT `id`,`name` FROM `lr_category` WHERE ( tid=33 )  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000057s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000108s ]
+NOTIC: [8] Undefined variable: more F:\phpStudy\WWW\minimaimaijiaju\App\Runtime\Cache\Ht\e81849e4ce3be3ecab274b55a0a2e144.php 第 19 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009353s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009415s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000946s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000998s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001048s ]
+
+[ 2017-09-01T18:10:25+08:00 ] ::1 /minimaimaijiaju/index.php/Ht/More/saveimg.html
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minimaimaijiaju\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000055s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000812s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000866s ]
+NOTIC: [8] Use of undefined constant Ymd - assumed 'Ymd' F:\phpStudy\WWW\minimaimaijiaju\App\Ht\Controller\MoreController.class.php 第 221 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given F:\phpStudy\WWW\minimaimaijiaju\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+SQL: SHOW COLUMNS FROM `lr_category` [ RunTime:0.0035s ]
+SQL: SELECT `name` FROM `lr_category` WHERE ( id=10 ) LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `lr_indeximg` [ RunTime:0.0042s ]
+SQL: UPDATE `lr_indeximg` SET `photo`='UploadFiles/category/20170901/1504260625699333.png',`cid`='10',`name`='卧房家具' WHERE ( id=7 ) [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000070s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000140s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009907s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009993s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001311s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001370s ]
+
+[ 2017-09-01T18:10:26+08:00 ] ::1 /minimaimaijiaju/index.php/Ht/More/indeximg
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minimaimaijiaju\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000071s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001112s ]
+SQL: SHOW COLUMNS FROM `lr_indeximg` [ RunTime:0.0104s ]
+SQL: SELECT * FROM `lr_indeximg` WHERE ( 1=1 )  [ RunTime:0.0018s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000064s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000122s ]
+NOTIC: [8] Undefined variable: page_index F:\phpStudy\WWW\minimaimaijiaju\App\Runtime\Cache\Ht\03a19c76e15009757023fb9a3bd0268e.php 第 34 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.023777s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023838s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000729s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000781s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000908s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000951s ]
+
